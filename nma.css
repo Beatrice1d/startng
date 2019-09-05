@@ -1,0 +1,16 @@
+img {
+    border-radius: 180px;
+    height: 207px
+}
+h3 {
+    color: darkred;
+}
+h3 {
+    background-color: bisque;
+}
+h1 {
+    color: darkred;
+}
+.container {
+    border: 2.5px dashed blue;
+}
